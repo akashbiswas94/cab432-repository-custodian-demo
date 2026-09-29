@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": [
+      {
+        "text": "You are a repository custodian. Summarise this GitHub issue in one sentence: Users cannot continue using the application after their authentication token expires."
+      }
+    ]
+  }
+]

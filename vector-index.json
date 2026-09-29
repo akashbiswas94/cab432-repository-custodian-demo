@@ -1,0 +1,16 @@
+{
+  "vectorBucketName": "n12371661-repo-vectors",
+  "indexName": "repo-context",
+  "dataType": "float32",
+  "dimension": 1024,
+  "distanceMetric": "cosine",
+  "metadataConfiguration": {
+    "nonFilterableMetadataKeys": [
+      "text"
+    ]
+  },
+  "tags": {
+    "qut-username": "n12371661@qut.edu.au",
+    "purpose": "assessment 2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "jsonrpc": "2.0",
+  "id": 5,
+  "method": "tools/call",
+  "params": {
+    "name": "search_repository_context",
+    "arguments": {
+      "query": "Are there any login problems caused by expired authentication tokens?",
+      "topK": 3
+    }
+  }
+}

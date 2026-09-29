@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+
+embed-output.json
+query-embedding.json
+put-vector.json
+query-vector.json
